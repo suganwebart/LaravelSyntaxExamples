@@ -6,6 +6,8 @@ MVC - Controller,Views,Blade Template,Template Inheritence,Forms Validation
 
 
 **Steps:**
+
+
 cd LaravelSyntaxExamples
 
 copy .env.example .env
