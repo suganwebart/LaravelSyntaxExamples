@@ -1,4 +1,4 @@
-LaravelSyntaxExamples
+**LaravelSyntaxExamples**
 
 Basics - Routing,Route groups, Middleware,Request,Response,Session,Cookies
 
